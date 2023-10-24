@@ -1,0 +1,10 @@
+
+/*griglia immagini*/
+.dc-img-porfolio{
+    overflow: hidden;
+    border-radius: 20px;
+}
+.dc-img-porfolio img{
+    max-width: 100%;
+    height: auto;
+}

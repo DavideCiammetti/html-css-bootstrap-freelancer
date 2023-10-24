@@ -1,0 +1,16 @@
+.dc-mrg-h1{            /*margine titolo jumbotron*/
+    margin-top: 1.9375rem;
+    margin-bottom: 2.25rem;
+    font-size: 4.0625rem;
+}
+.dc-mbt{                /*margine paragrafo finale jumbotron*/
+    margin-top: 1.875rem;
+    margin-bottom: 4.5rem;
+}
+
+.dc-img-svg{
+    text-align: center;
+}
+.dc-img-svg img{        /*prima immagine svg jumbotron*/
+    width: 50%;
+}

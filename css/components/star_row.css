@@ -1,0 +1,12 @@
+.black-row{     /*tratto accanto alla stella*/
+    width: 168px;
+    height: 4px;
+    border-radius: 10px;
+    background-color: white;
+}
+.fa-star{         /*sezione 1 e 2 stella*/
+    font-size: 2.1875rem;
+}
+.dc-bg-black{       /*bcgcol sezione 2 stella e righe*/
+    background-color: black;
+}
