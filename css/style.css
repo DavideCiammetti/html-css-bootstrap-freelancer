@@ -2,6 +2,7 @@
 @import url('./components/img-porfolio-sec.css');
 @import url('./components/star_row.css');
 @import url('./components/border.-bottom.css');
+@import url('./components/button-form.css');
 :root{
     --blue-300:   #2c3e50;
     --white: white;
