@@ -6,6 +6,9 @@
 }
 .fa-star{         /*sezione 1 e 2 stella*/
     font-size: 2.1875rem;
+    color: var(--white);
+    margin-left: 2.125rem;
+    margin-right: 2.125rem;
 }
 .dc-bg-black{       /*bcgcol sezione 2 stella e righe*/
     background-color: black;

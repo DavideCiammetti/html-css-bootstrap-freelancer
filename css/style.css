@@ -3,23 +3,28 @@
 @import url('./components/star_row.css');
 @import url('./components/border.-bottom.css');
 @import url('./components/button-form.css');
+@import url('./components/footer.css');
 :root{
-    --blue-300:   #2c3e50;
+    --blue-300:   #3a546d;
+    --blue-400: #2c3e50;
     --white: white;
     --green-water: #1abc9c;
 }
-#dc-bg-col,
+
 .dc-bg-final{
     background-color: var(--blue-300);
 }
-.dc-co-white{
+.dc-foot-bg{        /*bg color footer parte bassa*/
+    background-color: var(--blue-400);
+}
+.dc-co-white{           /*col white */
     color: var(--white);
 }
-.dc-bg-green{
+.dc-bg-green{   /*bg sfondo sezioni */
     background-color: var(--green-water);
 }
-.fa-star{
-    color: var(--white);
-    margin-left: 2.125rem;
-    margin-right: 2.125rem;
+
+/* colore link footer */
+.dc-green-link{
+    color: #1abc9c;
 }

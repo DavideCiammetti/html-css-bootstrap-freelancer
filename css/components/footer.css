@@ -1,0 +1,24 @@
+
+.dc-space h4, i, p{
+    color: var(--white);
+}
+.dc-space p{
+    font-size: 13px;
+}
+.dc-space h4{
+    font-size: 16px;
+}
+.dc-space i{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 10px;
+}
+.dc-space .dc-pad-fb{
+    padding: .625rem .8125rem;
+}
+.dc-space .dc-pad-gog{ 
+    padding: .625rem .5625rem;
+}
+.dc-font-s-cr{
+    font-size: 10px;
+}
