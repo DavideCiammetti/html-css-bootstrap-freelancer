@@ -10,7 +10,8 @@
     --white: white;
     --green-water: #1abc9c;
 }
-#dc-bg-col,
+
+.dc-bg-col,
 .dc-bg-final{
     background-color: var(--blue-300);
 }
